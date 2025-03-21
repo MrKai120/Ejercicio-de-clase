@@ -1,0 +1,11 @@
+<?XML version="1.0" encoding="UTF-8"?>
+<persona prefesion="técnico informático">
+   <nombre>XinKai</nombre>
+   <hombre/>
+   <fecha_de_nacimiento>
+      <dia>9</dia>
+      <mes>2</dia>
+      <año>2006</año>
+   </fecha_de_nacimiento>
+   <ciudad>Madrid</ciudad>
+</persona>

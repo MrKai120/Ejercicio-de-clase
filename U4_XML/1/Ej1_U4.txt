@@ -1,0 +1,10 @@
+<persona>
+   <nombre>XinKai</nombre>
+   <hombre/>
+   <fecha-de-nacimiento>
+      <día>09</día>
+      <mes>2</mes>
+      <año>2006</año>
+   </fecha-de-nacimiento>
+   <ciudad>Madrid</ciudad>
+</persona>
